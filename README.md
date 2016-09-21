@@ -18,3 +18,6 @@ The MIT License (MIT)
 
 Copyright (c) 2015 Katrina Owen, _@kytrinyx.com
 
+### LFE icon
+The LFE logo has been released into the public domain by its author, Duncan McGreggor.
+We adapted the this logo to create the icon used on Exercism.
